@@ -2,3 +2,4 @@ site_name: Extension
 pages:
   - Extension là gì: index.md
   - Tổng quan: overview.md
+  - Hướng dẫn cơ bản: basic.md
