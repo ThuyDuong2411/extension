@@ -16,7 +16,7 @@ Mỗi extension có thể có một browser action hoặc page action:
 
 Những extensions có thể trình diễn theo những cách khác như: thêm context menu, cung cấp một option page, hoặc sử dụng content script để thay đổi hiển thị trên web page,...Các bạn có thể biết một số ví dụ về extension UI:
 
-<p align= "center"><img src="/images/exUI.png"></p>
+<p align= "center"><img src="images/exUI.png"></p>
 
 ##Extension Files
 
