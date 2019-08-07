@@ -6,7 +6,7 @@ Một extension phải thực hiện một `a single purpose` được định n
 
 Giao diện người dùng nên đơn giản hóa và cố định. Chúng có thể là một biểu tượng đơn giản, chẳng hạn như `Google Mail Checker extension` như hình.
 
-<p align= "center"><img src="/images/gmail-small.png"></p>
+<p align= "center"><img src="https://github.com/ThuyDuong2411/extension/blob/master/images/gmail-small.png"></p>
 
 Các tệp extension được nén thành `.crx` cho người dùng tải xuống và cài đặt. Điều này có nghĩa extension không phụ thuộc vào nội dung trang web, không giống như các ứng dụng web thông thường.
 
